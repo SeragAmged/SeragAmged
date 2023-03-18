@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Serag 👋<br>I'm a third-year student in the Faculty of Computers and Data Science 🖥️ and a software engineering  student at ALX 🎓, with a strong background in data analysis 📊, data science 🧬, statistics 📈, and machine learning 🤖. I also have experience in Android Java Native development 📱 and Flutter development 🚀.<br><br>**I'm constantly learning and striving to contribute unforgettable and long-lasting projects to the development community 🔭🚀.**<br>
-<br>**Skills:**
+<br>**🛠Skills:**
  -  Flutter development
   - Android Java Native development
   - Machine learning modelling and implementation -
@@ -24,7 +24,8 @@ Hi, I'm Serag 👋<br>I'm a third-year student in the Faculty of Computers and D
 ---
  - **AI project**
 	
-	 -[Tic-Tac-Toe-bot](https://github.com/SeragAmged/Tic-Tac-Toe-bot)
+	 - -[Tic-Tac-Toe-bot](https://github.com/SeragAmged/Tic-Tac-Toe-bot)
+
 ---
 <br>***About Me***<br>Aside from being a hard-working developer, I'm also a Muslim with strong values of dedication 💪, perseverance 🏃‍♂️, and excellence 🏆.<br><br>**If you'd like to collaborate on a project or discuss opportunities, feel free to contact me through my GitHub profile 🤝. Let's create something amazing together! 😃**
 
@@ -47,10 +48,10 @@ Hi, I'm Serag 👋<br>I'm a third-year student in the Faculty of Computers and D
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
  
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:&emsp;&emsp;
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SeragAmged&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SeragAmged&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeragAmged&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
