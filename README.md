@@ -50,7 +50,7 @@ Hi, I'm Serag 👋<br>I'm a third-year student in the Faculty of Computers and D
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:&emsp;&emsp;
 ![](https://github-readme-stats.vercel.app/api?username=SeragAmged&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SeragAmged&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeragAmged&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
