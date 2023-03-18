@@ -51,9 +51,7 @@ Hi, I'm Serag 👋<br>I'm a third-year student in the Faculty of Computers and D
  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SeragAmged&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SeragAmged&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeragAmged&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SeragAmged&theme=tokyonight&hide_border=true)![](https://github-readme-stats.vercel.app/api?username=SeragAmged&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeragAmged&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://visitcount.itsvg.in/api?id=SeragAmged&icon=5&color=6)
 
 ## 🏆 GitHub Trophies
@@ -65,4 +63,3 @@ Hi, I'm Serag 👋<br>I'm a third-year student in the Faculty of Computers and D
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
-
