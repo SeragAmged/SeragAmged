@@ -1,7 +1,7 @@
 # 💫 About Me:
 <a href="https://git.io/typing-svg">
 	<img src=
-	     "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F2CF7&center=true&width=435&lines=Hello+How+Are+You%3F;Am+Serag+Amged;A+softwareEngineer+and+mobile+developer " 
+	     "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F2CF7&center=true&width=435&lines=Hello+How+Are+You%3F;Am+Serag+Amged;softwareEngineer+and+mobile+developer" 
 	     alt="Typing SVG"/></a>
 <img alt="Coder GIF" height=110 width=150 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
