@@ -11,7 +11,7 @@ Hi, I'm Serag <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 <br>**🛠Skills:**
  -  Flutter development
   - Android Java Native development
-  - Machine learning modelling and implementation -
+  - Machine learning modelling and implementation
   - Data analysis and visualization
  - Linux and shell scripting
 
