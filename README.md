@@ -1,4 +1,12 @@
 # 💫 About Me:
+<a href="https://git.io/typing-svg">
+	<img src=
+	     "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F2CF7&center=true&width=435&lines=Hello+How+Are+You%3F;Am+Serag+Amged;A+software+and+web+developer" 
+	     alt="Typing SVG"/></a>
+<img alt="Coder GIF" height=110 width=150 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+
+
+
 Hi, I'm Serag 👋<br>I'm a third-year student in the Faculty of Computers and Data Science 🖥️ and a software engineering  student at ALX 🎓, with a strong background in data analysis 📊, data science 🧬, statistics 📈, and machine learning 🤖. I also have experience in Android Java Native development 📱 and Flutter development 🚀.<br><br>**I'm constantly learning and striving to contribute unforgettable and long-lasting projects to the development community 🔭🚀.**<br>
 <br>**🛠Skills:**
  -  Flutter development
