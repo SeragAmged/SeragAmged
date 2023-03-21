@@ -21,7 +21,7 @@ Hi, I'm Serag <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 	 -  [news_app](https://github.com/SeragAmged/news_app)
 	 -  [bmi_app](https://github.com/SeragAmged/bmi_app)
 ---
- - **Data analysis projects: like**
+ - **Data analysis projects:**
 	 - [Medical-Appointment-No-Shows-Data-Analysis](https://github.com/SeragAmged/Medical-Appointment-No-Shows-Data-Analysis)
 	 - [Explore-US-Bikeshare-Data](https://github.com/SeragAmged/Explore-US-Bikeshare-Data)
 ---
