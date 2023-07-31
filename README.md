@@ -7,7 +7,7 @@
 
 
 
-Hi, I'm Serag <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"><br>I'm a third-year student in the Faculty of Computers and Data Science 🖥️ and a software engineering  student at ALX 🎓, with a strong background in data analysis 📊, data science 🧬, statistics 📈, and machine learning 🤖. I also have experience in Android Java Native development 📱 and Flutter development 🚀.<br><br>**I'm constantly learning and striving to contribute unforgettable and long-lasting projects to the development community 🔭🚀.**<br>
+Hi, I'm Serag <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"><br>I'm a senior year student in the Faculty of Computers and Data Science 🖥️ and a software engineering  student at ALX 🎓, with a strong background in data analysis 📊, data science 🧬, statistics 📈, and machine learning 🤖. I also have experience in Android Java Native development 📱 and Flutter development 🚀.<br><br>**I'm constantly learning and striving to contribute unforgettable and long-lasting projects to the development community 🔭🚀.**<br>
 <br>**🛠Skills:**
  -  Flutter development
   - Android Java Native development
